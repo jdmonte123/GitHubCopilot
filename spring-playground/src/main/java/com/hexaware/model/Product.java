@@ -45,6 +45,10 @@ public class Product {
         this.dateOfUpload = dateOfUpload;
     }
 
+    public Product(int i, String string, double d, Category electronics) {
+        //TODO Auto-generated constructor stub
+    }
+
     // Getters and Setters
     public Integer getId() {
         return id;
