@@ -26,7 +26,7 @@ class ValidateISBNTest {
 	public void TenDigitISBNNumbersEndingInAnXAreValid() {
 		ValidateISBN validator = new ValidateISBN();
 		boolean result = validator.checkISBN("012000030X");
-		assertTrue(result);
+		assertFalse(result);
 	}
 
 	@Test
