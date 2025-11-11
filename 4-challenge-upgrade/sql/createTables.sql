@@ -9,7 +9,6 @@ CREATE TABLE tracks (id int primary key auto_increment,
                     
 );
 
-
 insert into compact_discs values(9,'Is This It','The Strokes',11,13.99);
 insert into compact_discs values(10,'Just Enough Education to Perform','Stereophonics',11,10.99);
 insert into compact_discs values(11,'Parachutes','Coldplay',10,11.99);
