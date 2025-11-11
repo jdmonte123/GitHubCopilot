@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: ValidateISBNTest
 -------------------------------------------------------------------------------
-Tests run: 7, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.055 s <<< FAILURE! - in ValidateISBNTest
-TenDigitISBNNumbersEndingInAnXAreValid  Time elapsed: 0.036 s  <<< FAILURE!
-org.opentest4j.AssertionFailedError: expected: <true> but was: <false>
-	at ValidateISBNTest.TenDigitISBNNumbersEndingInAnXAreValid(ValidateISBNTest.java:29)
-
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.03 s - in ValidateISBNTest

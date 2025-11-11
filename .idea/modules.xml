@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/4-challenge-upgrade/CompactDiscRestDataBoot.iml" filepath="$PROJECT_DIR$/4-challenge-upgrade/CompactDiscRestDataBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GitHubCopilot.iml" filepath="$PROJECT_DIR$/.idea/GitHubCopilot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-challenge-find-and-fix-bug/isbn-check.iml" filepath="$PROJECT_DIR$/3-challenge-find-and-fix-bug/isbn-check.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-playground/spring-playground.iml" filepath="$PROJECT_DIR$/spring-playground/spring-playground.iml" />
+    </modules>
+  </component>
+</project>
