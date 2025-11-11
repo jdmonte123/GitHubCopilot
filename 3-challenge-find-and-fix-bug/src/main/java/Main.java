@@ -3,6 +3,5 @@ public class Main {
         ValidateISBN validator = new ValidateISBN();
         boolean result = validator.checkISBN("9781853260087");
         System.out.println("Is the ISBN valid? " + result);
-
     }
 }
